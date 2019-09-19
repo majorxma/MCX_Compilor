@@ -1,0 +1,11 @@
+int Zsjlj1[1], Zsjlj2[100]; 
+int zsjnb, zsjnb2;
+char strzsj[3], strzsj1[7777];
+char strzsjnb, strzsjnb3;
+int  a1, b[100];
+char str84, str9[20];
+
+void main() {
+    zsjnb = 0;
+    return ;
+}

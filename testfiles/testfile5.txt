@@ -1,0 +1,45 @@
+const int Zsj1nb = 1, Zsj2nb = +1, Zsj3nb = -1;
+const int _To1Hard = 13, _ka = -5;
+const char str1 = '+', str2 = '-', str3 = '*', str4 = '/';
+const char str5 = '_', str6 = 'd', str7 = 'B';
+const char str8 = '1', _1str9 = '0';
+
+int fib[100];
+
+int add(int a1, int a2) {
+    const int an = 5;
+    int a3;
+    a3 = a1 + a2;
+    return (a3);
+}
+
+void fibna(int n) {
+    fib[n] = fib[n - 1] + fib[n - 2];
+}
+
+void main() {
+    int i;
+    i = 3;
+    i = +3;
+    fib[1] = 1;
+    fib[2] = 1;
+    for (i = 3; i < 15; i = i + 1) {
+        fibna(i);
+    }
+    for (i = 1; i < 15; i = i + 1) {
+        printf(i);
+    }
+    for (i = 1; i < 12; i = i + 1)
+    while(i != 0) 
+        i = i - 1;
+    {
+        i = _To1Hard;
+    }
+    while(i > 0) {
+        i = i - 1;
+    }
+    for (i = 10; i > 0; i = i - 1) {
+        ;
+    }
+    return;
+}

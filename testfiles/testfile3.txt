@@ -1,0 +1,14 @@
+const int Zsj1nb = 1, Zsj2nb = +1, Zsj3nb = -1;
+const int _To1Hard = 13, _ka = -5;
+const char str1 = '+', str2 = '-', str3 = '*', str4 = '/';
+const char str5 = '_', str6 = 'a', str7 = 'A';
+const char str8 = '1', _1str9 = '0';
+
+void vava() {
+    printf("kkk");
+}
+
+void main() {
+    const int k = 5;
+    vava();
+}

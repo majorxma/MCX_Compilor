@@ -1,0 +1,39 @@
+const int Zsj1nb = 1, Zsj2nb = +1, Zsj3nb = -1;
+const int _To1Hard = 13, _ka = -5;
+const char str1 = '+', str2 = '-', str3 = '*', str4 = '/';
+const char str5 = '_', str6 = 'a', str7 = 'A';
+const char str8 = '1', _1str9 = '0';
+
+int Zsjlj1[1], Zsjlj2[100]; 
+int zsjnb, zsjnb2;
+char strzsj[3], strzsj1[7777];
+char strzsjnb, strzsjnb3;
+int  a1, b[100];
+char str81, str9[20];
+
+int sort(int left, int right, int mid, char str1) {
+    const int i2 = 6;
+    int i, inner;
+    i = 0;
+    b[2] = 3;
+    for(i = 0; i < i2 + 3; i = i + 1) {
+        scanf(inner);
+        printf(inner);
+        printf("ooer");
+        printf("the input is %d", inner);
+    }
+    return (i);
+}
+
+void main() {
+    int i, j, a1;
+    char an2s;
+    an2s = 'a';
+    i = 5;
+    while (i) {
+        printf(i);
+        i = i - 1;
+    }
+    a1 = sort(i, i + 6, i + 3, an2s);
+    return ;
+}

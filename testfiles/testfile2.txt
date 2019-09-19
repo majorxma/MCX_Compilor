@@ -1,0 +1,52 @@
+const int Zsj1nb = 1, Zsj2nb = +1, Zsj3nb = -1;
+const int _To1Hard = 13, _ka = -5;
+const char str1 = '+', str2 = '-', str3 = '*', str4 = '/';
+const char str5 = '_', str6 = 'a', str7 = 'A';
+const char str8 = '1', _1str9 = '0';
+
+int Zsjlj1[1], Zsjlj2[100]; 
+int zsjnb, zsjnb2;
+char strzsj[3], strzsj1[7777];
+char strzsjnb, strzsjnb3;
+int  a1, b[100];
+char str99;
+char str81, str9[20];
+
+void pri(int _a1, char str2) {
+    if(_a1 == 0)
+        printf("_a1 is 0");
+    else
+        printf("haha");
+}
+
+char charkk1(char _a2) {
+    _a2 = '0';
+    return (_a2);
+}
+
+void main() {
+    const char stk = '0';
+    const char strkwe = 'a';
+
+    int i, j, k, an;
+    char string123;
+    string123 = 'c';
+    an = 2;
+    an = 8 / 4;
+    i = an - 4;
+    Zsjlj1[1] = 8;
+    scanf(string123);
+    scanf(string123, an);
+    j = -an + i - 5 + Zsjlj1[1] * (4 + i);
+    do
+        j = j - 1;
+    while(j >= 0);
+    if (j <= 0) {
+        printf(j);
+    }
+    if (j < 0) {
+        printf(i);
+    }
+    pri(an, string123);
+    return ;
+}
