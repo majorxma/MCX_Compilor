@@ -1,1 +1,5 @@
-﻿  compiler_error.vcxproj -> C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\error\compiler_error\Debug\compiler_error.exe
+﻿  compiler_error.cpp
+C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\error\compiler_error\compiler_error\compiler_error.cpp(24,6): warning C4101:  “len”: 未引用的局部变量
+C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\error\compiler_error\compiler_error\compiler_error.cpp(21,7): warning C4101:  “buf”: 未引用的局部变量
+C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\error\compiler_error\compiler_error\compiler_error.cpp(22,7): warning C4101:  “c”: 未引用的局部变量
+  compiler_error.vcxproj -> C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\error\compiler_error\Debug\compiler_error.exe

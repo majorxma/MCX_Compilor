@@ -22,6 +22,7 @@ int main()
 	char c;
 	FILE* fp;
 	int len;
+	cout << isalpha('1')<< endl;
 	if ((fp = fopen("testfile1.txt", "r")) == NULL) {
 		perror("fail to read");
 		return 1;
@@ -42,8 +43,8 @@ int getsym(FILE* fp) {
 		while (c == ' ' || c == '	' || c == '\n') {
 			c = fgetc(fp);
 		}
-		if (isalpha(c)) {
-			while (isalnum(c)) {
+		if (isalpha(c) || c == '_') {
+			while (isalnum(c) || c == '_') {
 				strout += c;
 				c = fgetc(fp);
 			}
@@ -55,7 +56,7 @@ int getsym(FILE* fp) {
 				strout += c;
 				c = fgetc(fp);
 			}
-			cout << strout;
+			cout << strout << endl;
 			c = fgetc(fp);
 		}
 		else if (c == ':') {
