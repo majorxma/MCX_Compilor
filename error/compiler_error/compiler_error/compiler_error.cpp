@@ -22,7 +22,6 @@ int main()
 	char c;
 	FILE* fp;
 	int len;
-	cout << isalpha('1')<< endl;
 	if ((fp = fopen("testfile1.txt", "r")) == NULL) {
 		perror("fail to read");
 		return 1;
