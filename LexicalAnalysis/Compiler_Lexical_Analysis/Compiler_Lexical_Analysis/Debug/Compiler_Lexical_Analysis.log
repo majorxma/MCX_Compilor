@@ -1,6 +1,5 @@
 ﻿  Compiler_Lexical_Analysis.cpp
-C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\LexicalAnalysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis.cpp(35,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
-C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\LexicalAnalysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis.cpp(33,6): warning C4101:  “len”: 未引用的局部变量
-C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\LexicalAnalysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis.cpp(32,7): warning C4101:  “buf”: 未引用的局部变量
-C:\Users\Misaka Yukino\Documents\majorxma\Code\compelor\LexicalAnalysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis.cpp(82,1): error C2059:  语法错误:“}”
+C:\Users\77902\Documents\majorxma\compilor\LexicalAnalysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis.cpp(48,6): warning C4101:  “len”: 未引用的局部变量
+C:\Users\77902\Documents\majorxma\compilor\LexicalAnalysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis.cpp(47,7): warning C4101:  “buf”: 未引用的局部变量
+C:\Users\77902\Documents\majorxma\compilor\LexicalAnalysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis\Compiler_Lexical_Analysis.cpp(208): warning C4715:  “getwords”: 不是所有的控件路径都返回值
+  Compiler_Lexical_Analysis.vcxproj -> C:\Users\77902\Documents\majorxma\compilor\LexicalAnalysis\Compiler_Lexical_Analysis\Debug\Compiler_Lexical_Analysis.exe
